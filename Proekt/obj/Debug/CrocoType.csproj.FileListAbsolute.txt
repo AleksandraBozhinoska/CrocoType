@@ -1,0 +1,40 @@
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\CrocoType.csprojResolveAssemblyReference.cache
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\CrocoType.csproj.GenerateResource.Cache
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\DELL\documents\visual studio 2017\Projects\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\W7\Downloads\gluposti\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\Proekt.exe
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\Proekt.pdb
+C:\Users\W7\Downloads\gluposti\Proekt\bin\Debug\Proekt.exe
+C:\Users\W7\Downloads\gluposti\Proekt\bin\Debug\Proekt.pdb
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\CrocoType.csprojResolveAssemblyReference.cache
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\W7\Downloads\gluposti\Proekt\obj\Debug\CrocoType.csproj.GenerateResource.Cache
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.exe
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.pdb
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\bin\Debug\Proekt.exe
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\bin\Debug\Proekt.pdb
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\CrocoType.csprojResolveAssemblyReference.cache
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\CrocoType.csproj.GenerateResource.Cache
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.GameOver.resources
+C:\Users\Amin\Desktop\SAR-ALEX\Proekt\obj\Debug\Proekt.StartGame.resources
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.exe
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.pdb
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\bin\Debug\Proekt.exe
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\bin\Debug\Proekt.pdb
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\CrocoType.csprojResolveAssemblyReference.cache
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.GameOver.resources
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\Proekt.StartGame.resources
+C:\Users\Amin\Desktop\CrocoType (151001,151005)\Proekt\obj\Debug\CrocoType.csproj.GenerateResource.Cache
